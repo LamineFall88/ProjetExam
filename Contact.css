@@ -1,0 +1,21 @@
+.cont{
+    border: 1px solid beige;
+    width: 80%;
+    height: 120px;
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+}
+.contacte{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -25%;
+    margin-right: -20%;
+}
+.form{
+    border: 1px solid black;
+    width: 70%;
+    height: 160px;
+    margin-right: -17%;
+    background-color: beige;
+}

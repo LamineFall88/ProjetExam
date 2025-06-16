@@ -1,0 +1,60 @@
+.blog{
+    border: 1px solid beige;
+    width: 80%;
+    height: 130px;
+    text-align: center;
+    margin-left: 10%;
+    background-color: beige;
+}
+.search{
+    border: 1px solid black;
+    width: 27%;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 35%;
+    background-color: rgba(143, 164, 185, 0.26);
+}
+.radius{
+    border: 1px solid beige;
+    width: 95%;
+    height: 400px;
+    background-color: beige;
+    margin-left: 3%;
+}
+.blanc{
+    border: 1px solid white;
+    width: 80%;
+    height: 230px;
+    background-color: white;
+    margin: 4%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.foto{
+    border-radius: 50%;
+    width: 70%;
+    height: 20%;
+    margin: 30%;
+}
+.foto1{
+    border-radius: 50%;
+    width: 70%;
+    height: 20%;
+    margin: 30%;
+}
+.particip{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.part{
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 8%;
+}
+.com{
+    text-align: center;
+}

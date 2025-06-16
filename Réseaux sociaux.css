@@ -1,0 +1,14 @@
+.RS{
+    border: 1px solid black;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    margin: 23%;
+    margin-top: 10%;
+    font-size: 230%;
+    background-color: beige;
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+}

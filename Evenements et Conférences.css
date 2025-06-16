@@ -1,0 +1,33 @@
+.entete{
+    border: 1px solid black;
+    width: 90%;
+    height: 150px;
+    text-align: center;
+    margin: 5%;
+    background-color: beige;
+}
+.entete1{
+    border: 1px solid black;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
+}
+.petit{
+    border: 1px solid black;
+    width: 20%;
+    height: 199px;
+    margin: 2%;
+}
+.TOF{
+    width: 100%;
+    height: 100%;
+}
+.buton{
+    background-color: darkgreen;
+    color: white;
+}
+.txt{
+    text-align: center;
+}
